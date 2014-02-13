@@ -11,7 +11,6 @@ program main
     implicit none
 
 !Mariely te va a espiar
-!SAPO
     complex (kind = dp_prec), allocatable, dimension(:) :: precond_alu
     integer (kind = il), allocatable, dimension(:) :: precond_jlu
     integer (kind = il), allocatable, dimension(:) :: precond_ju

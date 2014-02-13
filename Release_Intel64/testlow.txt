@@ -1,0 +1,8 @@
+testname=nasa119
+precond=ilut
+ilut.fillin=1
+ladomax=0.12
+polariz=VH
+frec=1.19
+filename=almondlow.stl
+run=mom

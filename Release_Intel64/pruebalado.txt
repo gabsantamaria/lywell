@@ -1,0 +1,13 @@
+filename=s.stl
+lambda=0.95
+rcsmono.active=false
+ilut.fillin=5
+
+
+testname=prueba_ladomax0p5
+ladomax=0.5
+run=mlfma
+
+testname=prueba_ladomax0p25
+ladomax=0.25
+run=mlfma

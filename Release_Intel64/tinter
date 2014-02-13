@@ -1,0 +1,4 @@
+filename=sphere.stl
+lambda=0.95
+precond=no
+run=mlfma

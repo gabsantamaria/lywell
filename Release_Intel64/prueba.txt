@@ -1,0 +1,6 @@
+filename=ss.stl
+lambda=0.95
+precond=no
+rcsmono.active=false
+testname=normalidad
+run=mlfma

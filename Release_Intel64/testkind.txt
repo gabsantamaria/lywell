@@ -1,0 +1,7 @@
+testname=conkind8
+filename=s.stl
+lambda=0.95
+rcsmono.active=false
+ilut.fillin=5
+precond=ilut
+run=mlfma

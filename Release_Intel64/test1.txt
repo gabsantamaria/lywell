@@ -1,0 +1,10 @@
+testname=pruebaVH
+ilut.fillin=2
+precond=ilut
+rcsmono.active=true
+rcsmono.samples=3
+filename=ss.stl
+lambda=0.95
+polariz=VH
+config
+run=mlfma

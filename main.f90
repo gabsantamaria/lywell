@@ -54,12 +54,12 @@ program main
 
 !real (kind = 8), dimension (10) :: v1,v2
 !v1(:) = 2.8735
-!v2(:) = 8.3212
+!v2(:) = 8.3212999
 !call test(90017288,4,v1,v2)
     !call testSAAD()
 
     !Inicializacion
-
+!sapo mi prueba de commit
 
     ctte_onda = 1.
     lambda = 1.

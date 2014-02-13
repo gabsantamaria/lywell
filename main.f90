@@ -62,6 +62,7 @@ program main
 
     !Inicializacion
 !sapo mi prueba de committ
+!claro que no me va a espiar sopo
 
     ctte_onda = 1.
     lambda = 1.

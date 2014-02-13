@@ -10,6 +10,7 @@ program main
     use modMLFMA
     implicit none
 
+
     complex (kind = dp_prec), allocatable, dimension(:) :: precond_alu
     integer (kind = il), allocatable, dimension(:) :: precond_jlu
     integer (kind = il), allocatable, dimension(:) :: precond_ju
@@ -59,7 +60,7 @@ program main
     !call testSAAD()
 
     !Inicializacion
-!sapo mi prueba de commit
+!sapo mi prueba de committ
 
     ctte_onda = 1.
     lambda = 1.

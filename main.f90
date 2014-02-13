@@ -10,7 +10,6 @@ program main
     use modMLFMA
     implicit none
 
-
     complex (kind = dp_prec), allocatable, dimension(:) :: precond_alu
     integer (kind = il), allocatable, dimension(:) :: precond_jlu
     integer (kind = il), allocatable, dimension(:) :: precond_ju

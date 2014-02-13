@@ -7,7 +7,7 @@ module modFMM
     private
     !Variables globales
     public ::  inicializar_FMM, MatxVec_FMM, Zesparcida_FMM, ia_FMM, ja_FMM, n_esparcida_FMM, destruir_FMM
-!luis
+!luis sapo
     !Variables puntero de geometria del dispersor
     real ( kind = dp ),  pointer, dimension (:,:) :: p_coord
     integer ( kind = il ), pointer, dimension (:,:) :: t_p, e_p

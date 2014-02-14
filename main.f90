@@ -9,10 +9,7 @@ program main
     use modFMM
     use modMLFMA
     implicit none
-!NO FUNCIONAAAAAAAAAAAaa
-!Mariely te va a espiar
-!!!!!!CON MI DEVELOP
-!SAPO
+
     complex (kind = dp_prec), allocatable, dimension(:) :: precond_alu
     integer (kind = il), allocatable, dimension(:) :: precond_jlu
     integer (kind = il), allocatable, dimension(:) :: precond_ju
@@ -1529,3 +1526,5 @@ call savetolog('Tamaño de la matriz asignado para el precondicionador :' // int
 
 
 end program main
+!Sapoooooooooooooooooooooooooooooooooooooooooooo
+!Mariely te va a pegar
